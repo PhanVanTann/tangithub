@@ -1,0 +1,16 @@
+:root{
+    --pink:#e84393;
+}
+body{
+    background-color: black;
+
+}
+h1{
+    color: #fff;
+
+}
+button:hover {
+    display: inline-block;
+    color:var(--pink);
+    background-color: aquamarine;
+}
